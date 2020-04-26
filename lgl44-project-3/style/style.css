@@ -1,0 +1,96 @@
+#logout {
+  color: green;
+  font-size: 16px;
+
+}
+
+nav ul {
+
+    list-style-type: none;
+    background-color: green;
+    height: 90%;
+    justify-content: center;
+  }
+  nav li {
+      display: inline;
+      margin-left: 9%;
+      margin-right: 9%;
+
+
+  }
+  li a {
+    font-size: 32px;
+    color:rgb(255, 196, 0);
+    text-decoration: none;
+    font-family: 'Futura', Geneva, Tahoma, sans-serif;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+nav{
+  margin-bottom:3%;
+  margin-top:2%;
+  width:100%;
+  height:20%;
+
+}
+#mainpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+#nature{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+body {
+  background-color: rgb(255, 196, 0);
+}
+.indextext {
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: justify;
+  margin-left:auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#title{
+  text-decoration: underline;
+  margin-left:auto;
+  margin-right: auto;
+  text-align: center;
+  color: green;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#gallery{
+  height:350px;
+  width:700px;
+
+  left:500px;
+}
+
+
+#singlegallery{
+  height:600px;
+  width:1200px;
+
+  left:500px;
+}
+.image_gallery {
+width: 70%;
+margin: 0 auto;
+
+
+}
+.gallerypic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
